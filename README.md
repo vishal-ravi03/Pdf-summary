@@ -24,25 +24,29 @@ python-dotenv
 
 📦 Installation
 Clone the Repository
+
       git clone https://github.com/your-username/dock-ai.git
       cd dock-ai
 
 Install Dependencies
-  pip install -r requirements.txt
+
+        pip install -r requirements.txt
 
 
 
 Set Up Environment Variables
 Create a .env file:
-  GEMINI_API_KEY=your_google_gemini_api_key
+
+      GEMINI_API_KEY=your_google_gemini_api_key
 
   
 🔑 Note: You’ll also enter the API key in the Streamlit sidebar when running the app.
 
 🚀 Run the App
-streamlit run rag.py
 
-Open your browser and navigate to http://localhost:8501/.
+            streamlit run rag.py
+
+      Open your browser and navigate to http://localhost:8501/.
 📋 How to Use
 Enter your Gemini Pro API Key in the sidebar.
 
