@@ -57,6 +57,5 @@ Click Submit.
 View the AI-generated summary of the document.
 
 🔐 Security
-Your API key is used only during the session.
-
-It is not stored or logged anywhere.
+      \nYour API key is used only during the session.
+      It is not stored or logged anywhere.
