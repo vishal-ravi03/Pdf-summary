@@ -46,7 +46,7 @@ Create a .env file:
 
             streamlit run rag.py
 
-      Open your browser and navigate to http://localhost:8501/.
+Open your browser and navigate to http://localhost:8501/.
 📋 How to Use
 Enter your Gemini Pro API Key in the sidebar.
 
