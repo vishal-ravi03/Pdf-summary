@@ -1,8 +1,9 @@
-Dock Ai 
+Dock Ai
 
 Dock Ai is a simple and effective web application that summarizes patient health records from PDF documents using Google's Gemini 2.0 Flash LLM.
 
-🚀 Features
+🚀 Features :
+
 📤 Upload patient records in PDF format
 
 🔐 Secure Gemini API key entry
@@ -12,6 +13,7 @@ Dock Ai is a simple and effective web application that summarizes patient health
 🌐 Built with Streamlit for quick and interactive use
 
 🛠️ Tech Stack
+
 Python
 
 Streamlit
@@ -23,6 +25,7 @@ PyPDF2
 python-dotenv
 
 📦 Installation
+
 Clone the Repository
 
       git clone https://github.com/your-username/dock-ai.git
@@ -35,6 +38,7 @@ Install Dependencies
 
 
 Set Up Environment Variables
+
 Create a .env file:
 
       GEMINI_API_KEY=your_google_gemini_api_key
@@ -47,7 +51,9 @@ Create a .env file:
             streamlit run rag.py
 
 Open your browser and navigate to http://localhost:8501/.
+
 📋 How to Use
+
 Enter your Gemini Pro API Key in the sidebar.
 
 Upload a PDF patient health document.
